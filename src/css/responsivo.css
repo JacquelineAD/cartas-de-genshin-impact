@@ -1,0 +1,52 @@
+@media (max-width: 750px) {
+    body {
+        font-size: 12px;
+    }
+
+    .card {
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    .cartoes-personagem {
+        max-width: 300px;
+    }
+
+    .cartoes-personagem .cartao-img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .cartoes-personagem .cartao-info {
+        padding: 60px 30px 30px;
+        margin-top: -50px;
+    }
+
+    .cartoes-personagem .cartao-info h3 {
+        font-size: 16px;
+    }
+
+    .listagem {
+        max-width: 300px;
+    }
+
+    .listagem ul {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .listagem .personagens {
+        width: 140px;
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        margin-bottom: 0;
+        border-radius: 8px;
+    }
+
+    .listagem .personagens span {
+        padding-right: 5px;
+    }
+
+}

@@ -1,0 +1,102 @@
+.cartao-personagem{
+    display:none;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    border-radius: 10px;
+}
+
+.cartoes-personagem .cartao-topo{
+    padding: 30px 30px 0;
+}
+
+.cartoes-personagem .nome{
+    margin-bottom: 5px;
+}
+
+.cartoes-personagem .tipo{
+    font-size: 12px;
+    background-color: #ffffff;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding:  2px 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.cartoes-personagem .detalhes{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cartoes-personagem .cartao-img{
+    width: 350px;
+    height: 350px;
+}
+
+.cartoes-personagem img{
+    max-height: 100%;
+}
+
+.cartoes-personagem .cartao-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 70px 30px 30px;
+    margin-top: -70px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.cartoes-personagem .cartao-info h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #6B727A;
+}
+
+.cartoes-personagem .cartao-info .status, .cartoes-personagem .cartao-info .habilidades{
+    padding: 0 10px;
+    width: 180px;
+}
+
+.cartoes-personagem .cartao-info .habilidades ul li, .cartoes-personagem .cartao-info .status ul li{
+    border-bottom: 1px solid #C3C4C5;
+    padding: 0 0 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.cartao-personagem.aberto{
+    display: block;
+}
+
+.tipo-dendro{
+    background-color: rgb(180, 247, 114);
+}
+
+.tipo-electro{
+    background-color: rgb(186, 131, 236);
+}
+
+.tipo-Cryo{
+    background-color: rgb(120, 238, 238);
+}
+
+.tipo-anemo{
+    background-color: lightgreen;
+}
+
+.tipo-pyro{
+    background-color: rgb(233, 75, 107);
+}
+
+.tipo-geo{
+    background-color: rgb(243, 218, 78);
+}
+
+.tipo-hydro{
+    background-color: rgb(190, 229, 253);
+}
+
+
+
+
