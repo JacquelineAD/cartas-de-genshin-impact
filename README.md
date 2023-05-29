@@ -4,7 +4,7 @@ Escolhi meus 10 melhores personagens. Cada um com uma carta específica com suas
 
 ##Em Funcionamento:
 
-[<img src="tela-projeto.png" alt="gif de funcionamento da troca das cartas">]
+<img src="tela-projeto.png" alt="gif de funcionamento da troca das cartas">
 
 Cada clique em um personagem específico da listagem lateral leva o usuário a carta respectiva do personagem.
 
