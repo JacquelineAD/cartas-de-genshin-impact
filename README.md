@@ -4,9 +4,11 @@ Escolhi meus 10 melhores personagens. Cada um com uma carta específica com suas
 
 ##Em Funcionamento:
 
-<img src="tela-projeto.png" alt="gif de funcionamento da troca das cartas">
+[<img src="tela-projeto.gif" alt="gif de funcionamento da troca das cartas">]
 
 Cada clique em um personagem específico da listagem lateral leva o usuário a carta respectiva do personagem.
+
+[<img src="telaprint.png" alt="tela incial printada com a carta do primeiro personagem, Yao Yao">]
 
 ##Tecnologias usadas:
 
